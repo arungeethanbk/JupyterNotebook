@@ -464,7 +464,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 Author: Arun Geethan B K
-Repository: JupyterNotebook/Salary_prediction.ipynb
+Repository: JupyterNotebook/Salary_prediction.ipynb (https://github.com/arungeethanbk/JupyterNotebook/blob/main/Salary_prediction.ipynb)
 
 **Note**: This model is trained on a specific dataset and should be used for educational purposes. Real-world salary predictions may require more comprehensive data and domain expertise.
 
