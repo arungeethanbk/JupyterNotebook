@@ -285,7 +285,7 @@ Contributions are welcome! Areas for contribution:
 **Batch**: October-December 2024  
 **Date**: November 16, 2024  
 
-**Project Repository**: [Your Repository URL]
+**Project Repository**: (https://github.com/arungeethanbk/JupyterNotebook/blob/main/STOCK%20PREDICTION%20FOR%20MINOR%20PROJECT.ipynb)
 
 ## 📄 License
 
